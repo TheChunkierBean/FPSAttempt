@@ -16,16 +16,26 @@ public class SwitchWeapon : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+        Switch();
 	
 	}
 
     void Switch()
     {
         
-        if (Input.GetKeyDown("Q"))
+        if (Input.GetKeyDown(KeyCode.Q))
         {
-            Primary.SetActive(false);
-            Secondary.SetActive(true);
+            if (Primary.active)
+            {
+                Primary.SetActive(false);
+                Secondary.SetActive(true);
+            }
+            else
+            {
+                Primary.SetActive(true);
+                Secondary.SetActive(false);
+            }
 
             Debug.Log("Switch");
         }
