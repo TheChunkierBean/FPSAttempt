@@ -8,6 +8,14 @@ public class PickupWeapon : MonoBehaviour {
 
     void OnTriggerEnter(Collider sphere)
     {
+        if (Input.GetKey(KeyCode.E))
+            {
+                Destroy(gameObject);
+                Debug.Log("Gone");
+        }
+        Debug.Log("Entered");
 
     }
+
+    
 }

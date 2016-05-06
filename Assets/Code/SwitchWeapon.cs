@@ -4,10 +4,10 @@ using System.Collections;
 public class SwitchWeapon : MonoBehaviour {
 
     public GameObject Primary;
-    public GameObject Secondary; 
+    public GameObject Secondary;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 
         Primary.SetActive(true);
         Secondary.SetActive(false);
