@@ -10,23 +10,27 @@ public class PlayerHealth : MonoBehaviour {
 
     void OnEnable()
     {
-
+        SetInitialReferences();
+        SetUI();
+        playerMaster.EventPlayerHealthDecrease += DecreaseHealth;
+        playerMaster.EventPlayerHealthIncrease += IncreaseHealth;
 
     }
 
     void OnDisable()
     {
-
+        playerMaster.EventPlayerHealthDecrease -= DecreaseHealth;
+        playerMaster.EventPlayerHealthIncrease -= IncreaseHealth;
     }
 
     void Start ()
     {
-	
+        StartCoroutine(TestHealthDeduction());
 	}
 
     void SetInitialReferences()
     {
-
+        playerMaster = GetComponent<PlayerMaster>();
     }
 
     IEnumerator TestHealthDeduction()
@@ -37,17 +41,35 @@ public class PlayerHealth : MonoBehaviour {
 
     void DecreaseHealth(int healthChange)
     {
+        playerHealth -= healthChange;
 
+        if (playerHealth <= 0)
+        {
+            playerHealth = 0;
+
+        }
+
+        SetUI();
     }
 
     void IncreaseHealth(int healthChange)
     {
+        playerHealth += healthChange;
 
+        if (playerHealth > 100)
+        {
+            playerHealth = 100;
+        }
+
+        SetUI();
     }
 
     void SetUI()
     {
-
+        if (healthText != null)
+        {
+            healthText.text = playerHealth.ToString();
+        }
     }
 
     void Update ()
