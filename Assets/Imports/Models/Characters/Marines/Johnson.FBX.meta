@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: dde7512575d99974b80816e92674189a
+timeCreated: 1463075702
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#body'
+    100002: '#head'
+    100004: '#left foot'
+    100006: '#left hand'
+    100008: '#right foot'
+    100010: '#right hand'
+    100012: __unnamed
+    100014: bip01 head
+    100016: bip01 l calf
+    100018: bip01 l clavicle
+    100020: bip01 l foot
+    100022: bip01 l forearm
+    100024: bip01 l hand
+    100026: bip01 l thigh
+    100028: bip01 l upperarm
+    100030: bip01 neck
+    100032: bip01 pelvis
+    100034: bip01 ponytail1
+    100036: bip01 r calf
+    100038: bip01 r clavicle
+    100040: bip01 r foot
+    100042: bip01 r forearm
+    100044: bip01 r hand
+    100046: bip01 r thigh
+    100048: bip01 r upperarm
+    100050: bip01 spine
+    100052: bip01 spine1
+    100054: //RootNode
+    400000: '#body'
+    400002: '#head'
+    400004: '#left foot'
+    400006: '#left hand'
+    400008: '#right foot'
+    400010: '#right hand'
+    400012: __unnamed
+    400014: bip01 head
+    400016: bip01 l calf
+    400018: bip01 l clavicle
+    400020: bip01 l foot
+    400022: bip01 l forearm
+    400024: bip01 l hand
+    400026: bip01 l thigh
+    400028: bip01 l upperarm
+    400030: bip01 neck
+    400032: bip01 pelvis
+    400034: bip01 ponytail1
+    400036: bip01 r calf
+    400038: bip01 r clavicle
+    400040: bip01 r foot
+    400042: bip01 r forearm
+    400044: bip01 r hand
+    400046: bip01 r thigh
+    400048: bip01 r upperarm
+    400050: bip01 spine
+    400052: bip01 spine1
+    400054: //RootNode
+    2300000: '#body'
+    2300002: '#head'
+    2300004: '#left foot'
+    2300006: '#left hand'
+    2300008: '#right foot'
+    2300010: '#right hand'
+    3300000: '#body'
+    3300002: '#head'
+    3300004: '#left foot'
+    3300006: '#left hand'
+    3300008: '#right foot'
+    3300010: '#right hand'
+    4300000: '#left foot'
+    4300002: '#right foot'
+    4300004: '#left hand'
+    4300006: '#head'
+    4300008: '#right hand'
+    4300010: '#body'
+    4300012: __unnamed
+    7400000: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: __unnamed
+        weight: 1
+      - path: bip01 pelvis
+        weight: 1
+      - path: bip01 pelvis/bip01 l thigh
+        weight: 1
+      - path: bip01 pelvis/bip01 l thigh/bip01 l calf
+        weight: 1
+      - path: bip01 pelvis/bip01 l thigh/bip01 l calf/bip01 l foot
+        weight: 1
+      - path: bip01 pelvis/bip01 l thigh/bip01 l calf/bip01 l foot/#left foot
+        weight: 1
+      - path: bip01 pelvis/bip01 r thigh
+        weight: 1
+      - path: bip01 pelvis/bip01 r thigh/bip01 r calf
+        weight: 1
+      - path: bip01 pelvis/bip01 r thigh/bip01 r calf/bip01 r foot
+        weight: 1
+      - path: bip01 pelvis/bip01 r thigh/bip01 r calf/bip01 r foot/#right foot
+        weight: 1
+      - path: bip01 pelvis/bip01 spine
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/#body
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 l clavicle
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 l clavicle/bip01 l upperarm
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 l clavicle/bip01 l upperarm/bip01
+          l forearm
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 l clavicle/bip01 l upperarm/bip01
+          l forearm/bip01 l hand
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 l clavicle/bip01 l upperarm/bip01
+          l forearm/bip01 l hand/#left hand
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 neck
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 neck/bip01 head
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 neck/bip01 head/#head
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 neck/bip01 head/bip01 ponytail1
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 r clavicle
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 r clavicle/bip01 r upperarm
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 r clavicle/bip01 r upperarm/bip01
+          r forearm
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 r clavicle/bip01 r upperarm/bip01
+          r forearm/bip01 r hand
+        weight: 1
+      - path: bip01 pelvis/bip01 spine/bip01 spine1/bip01 r clavicle/bip01 r upperarm/bip01
+          r forearm/bip01 r hand/#right hand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
