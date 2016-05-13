@@ -25,20 +25,20 @@ public class PlayerHealth : MonoBehaviour {
 
     void Start ()
     {
-        StartCoroutine(TestHealthDeduction());
+        //StartCoroutine(TestHealthDeduction());
 	}
 
     void SetInitialReferences()
     {
         playerMaster = GetComponent<PlayerMaster>();
     }
-
+    /*
     IEnumerator TestHealthDeduction()
     {
         yield return new WaitForSeconds(4);
         DecreaseHealth(100);
     }
-
+    */
     void DecreaseHealth(int healthChange)
     {
         playerHealth -= healthChange;

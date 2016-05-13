@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 79485443784402c47b1b60021325280c
+timeCreated: 1463155351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#body'
+    100002: '#glow'
+    100004: '#glow 1'
+    100006: '#glow 2'
+    100008: '#glow 3'
+    100010: '#glow eye'
+    100012: '#glow rear'
+    100014: '#monitor light'
+    100016: __unnamed
+    100018: frame monitor root
+    100020: frame tendril marker
+    100022: //RootNode
+    400000: '#body'
+    400002: '#glow'
+    400004: '#glow 1'
+    400006: '#glow 2'
+    400008: '#glow 3'
+    400010: '#glow eye'
+    400012: '#glow rear'
+    400014: '#monitor light'
+    400016: __unnamed
+    400018: frame monitor root
+    400020: frame tendril marker
+    400022: //RootNode
+    2300000: '#body'
+    2300002: '#glow'
+    2300004: '#glow 1'
+    2300006: '#glow 2'
+    2300008: '#glow 3'
+    2300010: '#glow eye'
+    2300012: '#glow rear'
+    2300014: '#monitor light'
+    3300000: '#body'
+    3300002: '#glow'
+    3300004: '#glow 1'
+    3300006: '#glow 2'
+    3300008: '#glow 3'
+    3300010: '#glow eye'
+    3300012: '#glow rear'
+    3300014: '#monitor light'
+    4300000: '#body'
+    4300002: '#glow'
+    4300004: '#glow'
+    4300006: '#glow'
+    4300008: '#glow'
+    4300010: '#glow eye'
+    4300012: '#glow rear'
+    4300014: '#monitor light'
+    4300016: __unnamed
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: __unnamed
+        weight: 1
+      - path: frame monitor root
+        weight: 1
+      - path: frame monitor root/#body
+        weight: 1
+      - path: frame monitor root/#glow
+        weight: 1
+      - path: frame monitor root/#glow 1
+        weight: 1
+      - path: frame monitor root/#glow 2
+        weight: 1
+      - path: frame monitor root/#glow 3
+        weight: 1
+      - path: frame monitor root/#glow eye
+        weight: 1
+      - path: frame monitor root/#glow rear
+        weight: 1
+      - path: frame monitor root/#monitor light
+        weight: 1
+      - path: frame monitor root/frame tendril marker
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
