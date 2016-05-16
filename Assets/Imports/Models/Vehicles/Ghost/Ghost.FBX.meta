@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 688f0863337e98a489e962d8786b1bf0
+timeCreated: 1463324290
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#boost'
+    100002: '#cockpit light'
+    100004: '#driver'
+    100006: '#driver_elite'
+    100008: '#engine'
+    100010: '#gas tank'
+    100012: '#hull shell'
+    100014: '#left foot'
+    100016: '#left hand elite'
+    100018: '#left wing'
+    100020: '#left wing shell'
+    100022: '#particles'
+    100024: '#particles 1'
+    100026: '#particles 2'
+    100028: '#particles 3'
+    100030: '#primary trigger'
+    100032: '#primary trigger 1'
+    100034: '#right foot'
+    100036: '#right hand elite'
+    100038: '#right vent'
+    100040: '#right wing shell'
+    100042: '#running lights'
+    100044: '#running lights 1'
+    100046: '#running lights 2'
+    100048: '#seat'
+    100050: '#seat rear'
+    100052: '#submerged'
+    100054: frame gas tank
+    100056: frame hull
+    100058: frame left gun
+    100060: frame left wing
+    100062: frame right gun
+    100064: frame right wing
+    100066: frame seat
+    100068: gas tank
+    100070: //RootNode
+    100072: hull
+    100074: left gun
+    100076: left wing
+    100078: right gun
+    100080: right wing
+    100082: seat
+    400000: '#boost'
+    400002: '#cockpit light'
+    400004: '#driver'
+    400006: '#driver_elite'
+    400008: '#engine'
+    400010: '#gas tank'
+    400012: '#hull shell'
+    400014: '#left foot'
+    400016: '#left hand elite'
+    400018: '#left wing'
+    400020: '#left wing shell'
+    400022: '#particles'
+    400024: '#particles 1'
+    400026: '#particles 2'
+    400028: '#particles 3'
+    400030: '#primary trigger'
+    400032: '#primary trigger 1'
+    400034: '#right foot'
+    400036: '#right hand elite'
+    400038: '#right vent'
+    400040: '#right wing shell'
+    400042: '#running lights'
+    400044: '#running lights 1'
+    400046: '#running lights 2'
+    400048: '#seat'
+    400050: '#seat rear'
+    400052: '#submerged'
+    400054: frame gas tank
+    400056: frame hull
+    400058: frame left gun
+    400060: frame left wing
+    400062: frame right gun
+    400064: frame right wing
+    400066: frame seat
+    400068: gas tank
+    400070: //RootNode
+    400072: hull
+    400074: left gun
+    400076: left wing
+    400078: right gun
+    400080: right wing
+    400082: seat
+    2300000: '#boost'
+    2300002: '#cockpit light'
+    2300004: '#driver'
+    2300006: '#driver_elite'
+    2300008: '#engine'
+    2300010: '#gas tank'
+    2300012: '#hull shell'
+    2300014: '#left foot'
+    2300016: '#left hand elite'
+    2300018: '#left wing'
+    2300020: '#left wing shell'
+    2300022: '#particles'
+    2300024: '#particles 1'
+    2300026: '#particles 2'
+    2300028: '#particles 3'
+    2300030: '#primary trigger'
+    2300032: '#primary trigger 1'
+    2300034: '#right foot'
+    2300036: '#right hand elite'
+    2300038: '#right vent'
+    2300040: '#right wing shell'
+    2300042: '#running lights'
+    2300044: '#running lights 1'
+    2300046: '#running lights 2'
+    2300048: '#seat'
+    2300050: '#seat rear'
+    2300052: '#submerged'
+    2300054: frame gas tank
+    2300056: frame hull
+    2300058: frame left gun
+    2300060: frame left wing
+    2300062: frame right gun
+    2300064: frame right wing
+    2300066: frame seat
+    3300000: '#boost'
+    3300002: '#cockpit light'
+    3300004: '#driver'
+    3300006: '#driver_elite'
+    3300008: '#engine'
+    3300010: '#gas tank'
+    3300012: '#hull shell'
+    3300014: '#left foot'
+    3300016: '#left hand elite'
+    3300018: '#left wing'
+    3300020: '#left wing shell'
+    3300022: '#particles'
+    3300024: '#particles 1'
+    3300026: '#particles 2'
+    3300028: '#particles 3'
+    3300030: '#primary trigger'
+    3300032: '#primary trigger 1'
+    3300034: '#right foot'
+    3300036: '#right hand elite'
+    3300038: '#right vent'
+    3300040: '#right wing shell'
+    3300042: '#running lights'
+    3300044: '#running lights 1'
+    3300046: '#running lights 2'
+    3300048: '#seat'
+    3300050: '#seat rear'
+    3300052: '#submerged'
+    3300054: frame gas tank
+    3300056: frame hull
+    3300058: frame left gun
+    3300060: frame left wing
+    3300062: frame right gun
+    3300064: frame right wing
+    3300066: frame seat
+    4300000: frame hull
+    4300002: frame gas tank
+    4300004: '#gas tank'
+    4300006: frame left wing
+    4300008: frame left gun
+    4300010: '#primary trigger'
+    4300012: '#left wing'
+    4300014: '#left wing shell'
+    4300016: '#particles'
+    4300018: frame right wing
+    4300020: frame right gun
+    4300022: '#primary trigger'
+    4300024: '#particles'
+    4300026: '#right vent'
+    4300028: '#right wing shell'
+    4300030: frame seat
+    4300032: '#driver'
+    4300034: '#driver_elite'
+    4300036: '#particles'
+    4300038: '#seat rear'
+    4300040: '#boost'
+    4300042: '#cockpit light'
+    4300044: '#engine'
+    4300046: '#hull shell'
+    4300048: '#left foot'
+    4300050: '#left hand elite'
+    4300052: '#particles'
+    4300054: '#right foot'
+    4300056: '#right hand elite'
+    4300058: '#running lights'
+    4300060: '#running lights'
+    4300062: '#running lights'
+    4300064: '#seat'
+    4300066: '#submerged'
+    4300068: gas tank
+    4300070: hull
+    4300072: left gun
+    4300074: left wing
+    4300076: right gun
+    4300078: right wing
+    4300080: seat
+    9500000: //RootNode
+    13700000: gas tank
+    13700002: hull
+    13700004: left gun
+    13700006: left wing
+    13700008: right gun
+    13700010: right wing
+    13700012: seat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

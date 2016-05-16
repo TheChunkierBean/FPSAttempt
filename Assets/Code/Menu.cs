@@ -17,6 +17,6 @@ public class Menu : MonoBehaviour {
 
     public void LoadLevel()
     {
-        Application.LoadLevel("Ivory Tower");
+        Application.LoadLevel("DebugLevel");
     }
 }

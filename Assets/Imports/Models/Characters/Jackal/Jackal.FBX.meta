@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ccedb562deb886f4d99103cfff3367df
+timeCreated: 1463324237
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#body'
+    100002: '#head'
+    100004: '#left foot'
+    100006: '#left hand jackal'
+    100008: '#right foot'
+    100010: '#right hand jackal'
+    100012: '#shield light'
+    100014: __unnamed
+    100016: bip01 head
+    100018: bip01 l calf
+    100020: bip01 l clavicle
+    100022: bip01 l foot
+    100024: bip01 l forearm
+    100026: bip01 l hand
+    100028: bip01 l horselink
+    100030: bip01 l thigh
+    100032: bip01 l upperarm
+    100034: bip01 neck
+    100036: bip01 pelvis
+    100038: bip01 ponytail1
+    100040: bip01 ponytail2
+    100042: bip01 r calf
+    100044: bip01 r clavicle
+    100046: bip01 r foot
+    100048: bip01 r forearm
+    100050: bip01 r hand
+    100052: bip01 r horselink
+    100054: bip01 r thigh
+    100056: bip01 r upperarm
+    100058: bip01 spine
+    100060: bip01 spine1
+    100062: frame backleftflap
+    100064: frame backrightflap
+    100066: frame frontcenterflap
+    100068: frame shield
+    100070: //RootNode
+    400000: '#body'
+    400002: '#head'
+    400004: '#left foot'
+    400006: '#left hand jackal'
+    400008: '#right foot'
+    400010: '#right hand jackal'
+    400012: '#shield light'
+    400014: __unnamed
+    400016: bip01 head
+    400018: bip01 l calf
+    400020: bip01 l clavicle
+    400022: bip01 l foot
+    400024: bip01 l forearm
+    400026: bip01 l hand
+    400028: bip01 l horselink
+    400030: bip01 l thigh
+    400032: bip01 l upperarm
+    400034: bip01 neck
+    400036: bip01 pelvis
+    400038: bip01 ponytail1
+    400040: bip01 ponytail2
+    400042: bip01 r calf
+    400044: bip01 r clavicle
+    400046: bip01 r foot
+    400048: bip01 r forearm
+    400050: bip01 r hand
+    400052: bip01 r horselink
+    400054: bip01 r thigh
+    400056: bip01 r upperarm
+    400058: bip01 spine
+    400060: bip01 spine1
+    400062: frame backleftflap
+    400064: frame backrightflap
+    400066: frame frontcenterflap
+    400068: frame shield
+    400070: //RootNode
+    2300000: '#body'
+    2300002: '#head'
+    2300004: '#left foot'
+    2300006: '#left hand jackal'
+    2300008: '#right foot'
+    2300010: '#right hand jackal'
+    2300012: '#shield light'
+    3300000: '#body'
+    3300002: '#head'
+    3300004: '#left foot'
+    3300006: '#left hand jackal'
+    3300008: '#right foot'
+    3300010: '#right hand jackal'
+    3300012: '#shield light'
+    4300000: '#left foot'
+    4300002: '#right foot'
+    4300004: '#left hand jackal'
+    4300006: '#head'
+    4300008: '#right hand jackal'
+    4300010: '#shield light'
+    4300012: '#body'
+    4300014: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

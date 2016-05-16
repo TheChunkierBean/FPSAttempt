@@ -9,6 +9,7 @@ public class Weapon: MonoBehaviour {
     public float nextFire;
     RaycastHit hit;
     private Animator anim;
+    public GameObject crosshair;
     //public GameObject flare;
 
 
@@ -23,6 +24,7 @@ public class Weapon: MonoBehaviour {
 	void Update () {
 
         //flare.SetActive(false);
+        crosshair.SetActive(true);
         Fire();
         Reload();
         Melee();

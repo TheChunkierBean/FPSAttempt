@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 31bc466015d8a534d903417e9406220b
+timeCreated: 1463111301
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#antenna'
+    100002: '#bumper'
+    100004: '#camera driver'
+    100006: '#camera gunner'
+    100008: '#camera rider'
+    100010: '#chain'
+    100012: '#chaingun shield'
+    100014: '#driver'
+    100016: '#driver enter'
+    100018: '#engine'
+    100020: '#gunner'
+    100022: '#gunner enter'
+    100024: '#gunner left foot'
+    100026: '#gunner left hand'
+    100028: '#gunner right foot'
+    100030: '#gunner right hand'
+    100032: '#headlights'
+    100034: '#headlights 1'
+    100036: '#headlights 2'
+    100038: '#headlights 3'
+    100040: '#headlights light'
+    100042: '#horn'
+    100044: '#left back fender'
+    100046: '#left back hubcap'
+    100048: '#left back tire'
+    100050: '#left front fender'
+    100052: '#left front hubcap'
+    100054: '#left front tire'
+    100056: '#left hand wheel grip'
+    100058: '#left sailpanel'
+    100060: '#passenger'
+    100062: '#passenger enter'
+    100064: '#primary ejection'
+    100066: '#primary trigger'
+    100068: '#right back fender'
+    100070: '#right back hubcap'
+    100072: '#right back tire'
+    100074: '#right front fender'
+    100076: '#right front hubcap'
+    100078: '#right front tire'
+    100080: '#right hand wheel grip'
+    100082: '#right sailpanel'
+    100084: '#taillights'
+    100086: '#taillights 1'
+    100088: '#winch'
+    100090: '#windshield'
+    100092: frame barrels
+    100094: frame chain
+    100096: frame chaingun base
+    100098: frame chaingun gun
+    100100: frame hull
+    100102: frame left back engine
+    100104: frame left back fender
+    100106: frame left back suspension
+    100108: frame left back tire
+    100110: frame left front engine
+    100112: frame left front fender
+    100114: frame left front suspension
+    100116: frame left front tire
+    100118: frame left sailpanel
+    100120: frame right back engine
+    100122: frame right back fender
+    100124: frame right back suspension
+    100126: frame right back tire
+    100128: frame right front engine
+    100130: frame right front fender
+    100132: frame right front suspension
+    100134: frame right front tire
+    100136: frame right sailpanel
+    100138: frame steering wheel
+    100140: frame windshield
+    100142: hull
+    100144: left back fender
+    100146: left front fender
+    100148: right back fender
+    100150: right front fender
+    100152: tires
+    100154: //RootNode
+    100156: windshield
+    400000: '#antenna'
+    400002: '#bumper'
+    400004: '#camera driver'
+    400006: '#camera gunner'
+    400008: '#camera rider'
+    400010: '#chain'
+    400012: '#chaingun shield'
+    400014: '#driver'
+    400016: '#driver enter'
+    400018: '#engine'
+    400020: '#gunner'
+    400022: '#gunner enter'
+    400024: '#gunner left foot'
+    400026: '#gunner left hand'
+    400028: '#gunner right foot'
+    400030: '#gunner right hand'
+    400032: '#headlights'
+    400034: '#headlights 1'
+    400036: '#headlights 2'
+    400038: '#headlights 3'
+    400040: '#headlights light'
+    400042: '#horn'
+    400044: '#left back fender'
+    400046: '#left back hubcap'
+    400048: '#left back tire'
+    400050: '#left front fender'
+    400052: '#left front hubcap'
+    400054: '#left front tire'
+    400056: '#left hand wheel grip'
+    400058: '#left sailpanel'
+    400060: '#passenger'
+    400062: '#passenger enter'
+    400064: '#primary ejection'
+    400066: '#primary trigger'
+    400068: '#right back fender'
+    400070: '#right back hubcap'
+    400072: '#right back tire'
+    400074: '#right front fender'
+    400076: '#right front hubcap'
+    400078: '#right front tire'
+    400080: '#right hand wheel grip'
+    400082: '#right sailpanel'
+    400084: '#taillights'
+    400086: '#taillights 1'
+    400088: '#winch'
+    400090: '#windshield'
+    400092: frame barrels
+    400094: frame chain
+    400096: frame chaingun base
+    400098: frame chaingun gun
+    400100: frame hull
+    400102: frame left back engine
+    400104: frame left back fender
+    400106: frame left back suspension
+    400108: frame left back tire
+    400110: frame left front engine
+    400112: frame left front fender
+    400114: frame left front suspension
+    400116: frame left front tire
+    400118: frame left sailpanel
+    400120: frame right back engine
+    400122: frame right back fender
+    400124: frame right back suspension
+    400126: frame right back tire
+    400128: frame right front engine
+    400130: frame right front fender
+    400132: frame right front suspension
+    400134: frame right front tire
+    400136: frame right sailpanel
+    400138: frame steering wheel
+    400140: frame windshield
+    400142: hull
+    400144: left back fender
+    400146: left front fender
+    400148: right back fender
+    400150: right front fender
+    400152: tires
+    400154: //RootNode
+    400156: windshield
+    2300000: '#antenna'
+    2300002: '#bumper'
+    2300004: '#camera driver'
+    2300006: '#camera gunner'
+    2300008: '#camera rider'
+    2300010: '#chain'
+    2300012: '#chaingun shield'
+    2300014: '#driver'
+    2300016: '#driver enter'
+    2300018: '#engine'
+    2300020: '#gunner'
+    2300022: '#gunner enter'
+    2300024: '#gunner left foot'
+    2300026: '#gunner left hand'
+    2300028: '#gunner right foot'
+    2300030: '#gunner right hand'
+    2300032: '#headlights'
+    2300034: '#headlights 1'
+    2300036: '#headlights 2'
+    2300038: '#headlights 3'
+    2300040: '#headlights light'
+    2300042: '#horn'
+    2300044: '#left back fender'
+    2300046: '#left back hubcap'
+    2300048: '#left back tire'
+    2300050: '#left front fender'
+    2300052: '#left front hubcap'
+    2300054: '#left front tire'
+    2300056: '#left hand wheel grip'
+    2300058: '#left sailpanel'
+    2300060: '#passenger'
+    2300062: '#passenger enter'
+    2300064: '#primary ejection'
+    2300066: '#primary trigger'
+    2300068: '#right back fender'
+    2300070: '#right back hubcap'
+    2300072: '#right back tire'
+    2300074: '#right front fender'
+    2300076: '#right front hubcap'
+    2300078: '#right front tire'
+    2300080: '#right hand wheel grip'
+    2300082: '#right sailpanel'
+    2300084: '#taillights'
+    2300086: '#taillights 1'
+    2300088: '#winch'
+    2300090: '#windshield'
+    2300092: frame barrels
+    2300094: frame chain
+    2300096: frame chaingun base
+    2300098: frame chaingun gun
+    2300100: frame hull
+    2300102: frame left back engine
+    2300104: frame left back fender
+    2300106: frame left back suspension
+    2300108: frame left back tire
+    2300110: frame left front engine
+    2300112: frame left front fender
+    2300114: frame left front suspension
+    2300116: frame left front tire
+    2300118: frame left sailpanel
+    2300120: frame right back engine
+    2300122: frame right back fender
+    2300124: frame right back suspension
+    2300126: frame right back tire
+    2300128: frame right front engine
+    2300130: frame right front fender
+    2300132: frame right front suspension
+    2300134: frame right front tire
+    2300136: frame right sailpanel
+    2300138: frame steering wheel
+    2300140: frame windshield
+    3300000: '#antenna'
+    3300002: '#bumper'
+    3300004: '#camera driver'
+    3300006: '#camera gunner'
+    3300008: '#camera rider'
+    3300010: '#chain'
+    3300012: '#chaingun shield'
+    3300014: '#driver'
+    3300016: '#driver enter'
+    3300018: '#engine'
+    3300020: '#gunner'
+    3300022: '#gunner enter'
+    3300024: '#gunner left foot'
+    3300026: '#gunner left hand'
+    3300028: '#gunner right foot'
+    3300030: '#gunner right hand'
+    3300032: '#headlights'
+    3300034: '#headlights 1'
+    3300036: '#headlights 2'
+    3300038: '#headlights 3'
+    3300040: '#headlights light'
+    3300042: '#horn'
+    3300044: '#left back fender'
+    3300046: '#left back hubcap'
+    3300048: '#left back tire'
+    3300050: '#left front fender'
+    3300052: '#left front hubcap'
+    3300054: '#left front tire'
+    3300056: '#left hand wheel grip'
+    3300058: '#left sailpanel'
+    3300060: '#passenger'
+    3300062: '#passenger enter'
+    3300064: '#primary ejection'
+    3300066: '#primary trigger'
+    3300068: '#right back fender'
+    3300070: '#right back hubcap'
+    3300072: '#right back tire'
+    3300074: '#right front fender'
+    3300076: '#right front hubcap'
+    3300078: '#right front tire'
+    3300080: '#right hand wheel grip'
+    3300082: '#right sailpanel'
+    3300084: '#taillights'
+    3300086: '#taillights 1'
+    3300088: '#winch'
+    3300090: '#windshield'
+    3300092: frame barrels
+    3300094: frame chain
+    3300096: frame chaingun base
+    3300098: frame chaingun gun
+    3300100: frame hull
+    3300102: frame left back engine
+    3300104: frame left back fender
+    3300106: frame left back suspension
+    3300108: frame left back tire
+    3300110: frame left front engine
+    3300112: frame left front fender
+    3300114: frame left front suspension
+    3300116: frame left front tire
+    3300118: frame left sailpanel
+    3300120: frame right back engine
+    3300122: frame right back fender
+    3300124: frame right back suspension
+    3300126: frame right back tire
+    3300128: frame right front engine
+    3300130: frame right front fender
+    3300132: frame right front suspension
+    3300134: frame right front tire
+    3300136: frame right sailpanel
+    3300138: frame steering wheel
+    3300140: frame windshield
+    4300000: frame hull
+    4300002: frame chaingun base
+    4300004: frame chain
+    4300006: '#chain'
+    4300008: frame chaingun gun
+    4300010: frame barrels
+    4300012: '#chaingun shield'
+    4300014: '#gunner left hand'
+    4300016: '#gunner right hand'
+    4300018: '#primary ejection'
+    4300020: '#primary trigger'
+    4300022: '#camera gunner'
+    4300024: '#gunner'
+    4300026: '#gunner left foot'
+    4300028: '#gunner right foot'
+    4300030: frame left back fender
+    4300032: frame left back suspension
+    4300034: frame left back engine
+    4300036: frame left back tire
+    4300038: '#left back hubcap'
+    4300040: '#left back tire'
+    4300042: frame left front fender
+    4300044: frame left front suspension
+    4300046: frame left front engine
+    4300048: frame left front tire
+    4300050: '#left front hubcap'
+    4300052: '#left front tire'
+    4300054: frame left sailpanel
+    4300056: frame right back fender
+    4300058: frame right back suspension
+    4300060: frame right back engine
+    4300062: frame right back tire
+    4300064: '#right back hubcap'
+    4300066: '#right back tire'
+    4300068: frame right front fender
+    4300070: frame right front suspension
+    4300072: frame right front engine
+    4300074: frame right front tire
+    4300076: '#right front hubcap'
+    4300078: '#right front tire'
+    4300080: frame right sailpanel
+    4300082: frame steering wheel
+    4300084: '#left hand wheel grip'
+    4300086: '#right hand wheel grip'
+    4300088: frame windshield
+    4300090: '#antenna'
+    4300092: '#bumper'
+    4300094: '#camera driver'
+    4300096: '#camera rider'
+    4300098: '#driver'
+    4300100: '#driver enter'
+    4300102: '#engine'
+    4300104: '#gunner enter'
+    4300106: '#headlights'
+    4300108: '#headlights'
+    4300110: '#headlights'
+    4300112: '#headlights'
+    4300114: '#headlights light'
+    4300116: '#horn'
+    4300118: '#left back fender'
+    4300120: '#left front fender'
+    4300122: '#left sailpanel'
+    4300124: '#passenger'
+    4300126: '#passenger enter'
+    4300128: '#right back fender'
+    4300130: '#right front fender'
+    4300132: '#right sailpanel'
+    4300134: '#taillights'
+    4300136: '#taillights'
+    4300138: '#winch'
+    4300140: '#windshield'
+    4300142: hull
+    4300144: left back fender
+    4300146: left front fender
+    4300148: right back fender
+    4300150: right front fender
+    4300152: tires
+    4300154: windshield
+    9500000: //RootNode
+    13700000: hull
+    13700002: left back fender
+    13700004: left front fender
+    13700006: right back fender
+    13700008: right front fender
+    13700010: tires
+    13700012: windshield
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
