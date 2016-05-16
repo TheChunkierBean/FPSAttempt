@@ -14,9 +14,13 @@ public class Menu : MonoBehaviour {
         
 
     }
-
-    public void LoadLevel()
+    public void LoadSinglePlayerLevel()
     {
         Application.LoadLevel("DebugLevel");
+    }
+
+    public void LoadMultiplayerLevel()
+    {
+        Application.LoadLevel("Ivory Tower");
     }
 }
