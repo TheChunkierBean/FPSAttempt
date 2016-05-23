@@ -16,7 +16,7 @@ public class Menu : MonoBehaviour {
     }
     public void LoadSinglePlayerLevel()
     {
-        Application.LoadLevel("DebugLevel");
+        Application.LoadLevel("Regret");
     }
 
     public void LoadMultiplayerLevel()
