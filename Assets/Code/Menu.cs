@@ -23,4 +23,9 @@ public class Menu : MonoBehaviour {
     {
         Application.LoadLevel("Ivory Tower");
     }
+
+    public void toggleGameObject(GameObject gameObject)
+    {
+        gameObject.SetActive(!gameObject.activeSelf);
+    }
 }
