@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 905d0f7a12c3ec14098fa0aa45b6b3b1
+timeCreated: 1464199242
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#autoaim_melee'
+    100002: '#body'
+    100004: '#drop'
+    100006: '#drop_left'
+    100008: '#drop_right'
+    100010: '#flaming_ninja'
+    100012: '#flashlight'
+    100014: '#fp_body_cam'
+    100016: '#fx_fire_large'
+    100018: '#fx_fire_small'
+    100020: '#fx_fire_small 1'
+    100022: '#fx_fire_small 2'
+    100024: '#fx_fire_small 3'
+    100026: '#hammer_detonation'
+    100028: '#head'
+    100030: '#infection'
+    100032: '#left_foot'
+    100034: '#left_hand'
+    100036: '#right_foot'
+    100038: '#right_hand'
+    100040: '#shield_recharge'
+    100042: '#target_head'
+    100044: '#target_leg_l'
+    100046: '#target_leg_l 1'
+    100048: '#target_leg_r'
+    100050: '#target_leg_r 1'
+    100052: '#target_main'
+    100054: '#target_main 1'
+    100056: '#visor_reflection'
+    100058: '#weapon_back'
+    100060: '#weapon_thigh'
+    100062: arms:base:1
+    100064: arms:base:2
+    100066: arms:base:3
+    100068: body:base:1
+    100070: body:base:2
+    100072: body:base:3
+    100074: body:base:4
+    100076: head
+    100078: helmet:base:1
+    100080: helmet:base:2
+    100082: helmet:base:3
+    100084: helmet:base:4
+    100086: l_calf
+    100088: l_clavicle
+    100090: l_foot
+    100092: l_forearm
+    100094: l_hand
+    100096: l_index_low
+    100098: l_index_mid
+    100100: l_index_tip
+    100102: l_middle_low
+    100104: l_middle_mid
+    100106: l_middle_tip
+    100108: l_pinky_low
+    100110: l_pinky_mid
+    100112: l_pinky_tip
+    100114: l_ring_low
+    100116: l_ring_mid
+    100118: l_ring_tip
+    100120: l_thigh
+    100122: l_thumb_low
+    100124: l_thumb_mid
+    100126: l_thumb_tip
+    100128: l_toe
+    100130: l_upperarm
+    100132: leftshoulder:base:1
+    100134: legs:base:1
+    100136: legs:base:2
+    100138: legs:base:3
+    100140: neck
+    100142: pelvis
+    100144: r_calf
+    100146: r_clavicle
+    100148: r_foot
+    100150: r_forearm
+    100152: r_hand
+    100154: r_index_low
+    100156: r_index_mid
+    100158: r_index_tip
+    100160: r_middle_low
+    100162: r_middle_mid
+    100164: r_middle_tip
+    100166: r_pinky_low
+    100168: r_pinky_mid
+    100170: r_pinky_tip
+    100172: r_ring_low
+    100174: r_ring_mid
+    100176: r_ring_tip
+    100178: r_thigh
+    100180: r_thumb_low
+    100182: r_thumb_mid
+    100184: r_thumb_tip
+    100186: r_toe
+    100188: r_upperarm
+    100190: rightshoulder:base:1
+    100192: rightshoulder:base:2
+    100194: //RootNode
+    100196: spine
+    100198: spine1
+    400000: '#autoaim_melee'
+    400002: '#body'
+    400004: '#drop'
+    400006: '#drop_left'
+    400008: '#drop_right'
+    400010: '#flaming_ninja'
+    400012: '#flashlight'
+    400014: '#fp_body_cam'
+    400016: '#fx_fire_large'
+    400018: '#fx_fire_small'
+    400020: '#fx_fire_small 1'
+    400022: '#fx_fire_small 2'
+    400024: '#fx_fire_small 3'
+    400026: '#hammer_detonation'
+    400028: '#head'
+    400030: '#infection'
+    400032: '#left_foot'
+    400034: '#left_hand'
+    400036: '#right_foot'
+    400038: '#right_hand'
+    400040: '#shield_recharge'
+    400042: '#target_head'
+    400044: '#target_leg_l'
+    400046: '#target_leg_l 1'
+    400048: '#target_leg_r'
+    400050: '#target_leg_r 1'
+    400052: '#target_main'
+    400054: '#target_main 1'
+    400056: '#visor_reflection'
+    400058: '#weapon_back'
+    400060: '#weapon_thigh'
+    400062: arms:base:1
+    400064: arms:base:2
+    400066: arms:base:3
+    400068: body:base:1
+    400070: body:base:2
+    400072: body:base:3
+    400074: body:base:4
+    400076: head
+    400078: helmet:base:1
+    400080: helmet:base:2
+    400082: helmet:base:3
+    400084: helmet:base:4
+    400086: l_calf
+    400088: l_clavicle
+    400090: l_foot
+    400092: l_forearm
+    400094: l_hand
+    400096: l_index_low
+    400098: l_index_mid
+    400100: l_index_tip
+    400102: l_middle_low
+    400104: l_middle_mid
+    400106: l_middle_tip
+    400108: l_pinky_low
+    400110: l_pinky_mid
+    400112: l_pinky_tip
+    400114: l_ring_low
+    400116: l_ring_mid
+    400118: l_ring_tip
+    400120: l_thigh
+    400122: l_thumb_low
+    400124: l_thumb_mid
+    400126: l_thumb_tip
+    400128: l_toe
+    400130: l_upperarm
+    400132: leftshoulder:base:1
+    400134: legs:base:1
+    400136: legs:base:2
+    400138: legs:base:3
+    400140: neck
+    400142: pelvis
+    400144: r_calf
+    400146: r_clavicle
+    400148: r_foot
+    400150: r_forearm
+    400152: r_hand
+    400154: r_index_low
+    400156: r_index_mid
+    400158: r_index_tip
+    400160: r_middle_low
+    400162: r_middle_mid
+    400164: r_middle_tip
+    400166: r_pinky_low
+    400168: r_pinky_mid
+    400170: r_pinky_tip
+    400172: r_ring_low
+    400174: r_ring_mid
+    400176: r_ring_tip
+    400178: r_thigh
+    400180: r_thumb_low
+    400182: r_thumb_mid
+    400184: r_thumb_tip
+    400186: r_toe
+    400188: r_upperarm
+    400190: rightshoulder:base:1
+    400192: rightshoulder:base:2
+    400194: //RootNode
+    400196: spine
+    400198: spine1
+    2300000: '#autoaim_melee'
+    2300002: '#body'
+    2300004: '#drop'
+    2300006: '#drop_left'
+    2300008: '#drop_right'
+    2300010: '#flaming_ninja'
+    2300012: '#flashlight'
+    2300014: '#fp_body_cam'
+    2300016: '#fx_fire_large'
+    2300018: '#fx_fire_small'
+    2300020: '#fx_fire_small 1'
+    2300022: '#fx_fire_small 2'
+    2300024: '#fx_fire_small 3'
+    2300026: '#hammer_detonation'
+    2300028: '#head'
+    2300030: '#infection'
+    2300032: '#left_foot'
+    2300034: '#left_hand'
+    2300036: '#right_foot'
+    2300038: '#right_hand'
+    2300040: '#shield_recharge'
+    2300042: '#target_head'
+    2300044: '#target_leg_l'
+    2300046: '#target_leg_l 1'
+    2300048: '#target_leg_r'
+    2300050: '#target_leg_r 1'
+    2300052: '#target_main'
+    2300054: '#target_main 1'
+    2300056: '#visor_reflection'
+    2300058: '#weapon_back'
+    2300060: '#weapon_thigh'
+    3300000: '#autoaim_melee'
+    3300002: '#body'
+    3300004: '#drop'
+    3300006: '#drop_left'
+    3300008: '#drop_right'
+    3300010: '#flaming_ninja'
+    3300012: '#flashlight'
+    3300014: '#fp_body_cam'
+    3300016: '#fx_fire_large'
+    3300018: '#fx_fire_small'
+    3300020: '#fx_fire_small 1'
+    3300022: '#fx_fire_small 2'
+    3300024: '#fx_fire_small 3'
+    3300026: '#hammer_detonation'
+    3300028: '#head'
+    3300030: '#infection'
+    3300032: '#left_foot'
+    3300034: '#left_hand'
+    3300036: '#right_foot'
+    3300038: '#right_hand'
+    3300040: '#shield_recharge'
+    3300042: '#target_head'
+    3300044: '#target_leg_l'
+    3300046: '#target_leg_l 1'
+    3300048: '#target_leg_r'
+    3300050: '#target_leg_r 1'
+    3300052: '#target_main'
+    3300054: '#target_main 1'
+    3300056: '#visor_reflection'
+    3300058: '#weapon_back'
+    3300060: '#weapon_thigh'
+    4300000: '#left_foot'
+    4300002: '#target_leg_l'
+    4300004: '#fx_fire_small'
+    4300006: '#target_leg_l'
+    4300008: '#right_foot'
+    4300010: '#target_leg_r'
+    4300012: '#fx_fire_small'
+    4300014: '#target_leg_r'
+    4300016: '#weapon_thigh'
+    4300018: '#left_hand'
+    4300020: '#fx_fire_small'
+    4300022: '#drop'
+    4300024: '#drop_left'
+    4300026: '#drop_right'
+    4300028: '#flaming_ninja'
+    4300030: '#flashlight'
+    4300032: '#fp_body_cam'
+    4300034: '#head'
+    4300036: '#target_head'
+    4300038: '#visor_reflection'
+    4300040: '#hammer_detonation'
+    4300042: '#right_hand'
+    4300044: '#fx_fire_small'
+    4300046: '#body'
+    4300048: '#fx_fire_large'
+    4300050: '#infection'
+    4300052: '#target_main'
+    4300054: '#weapon_back'
+    4300056: '#autoaim_melee'
+    4300058: '#shield_recharge'
+    4300060: '#target_main'
+    4300062: arms:base:1
+    4300064: arms:base:2
+    4300066: arms:base:3
+    4300068: body:base:1
+    4300070: body:base:2
+    4300072: body:base:3
+    4300074: body:base:4
+    4300076: helmet:base:1
+    4300078: helmet:base:2
+    4300080: helmet:base:3
+    4300082: helmet:base:4
+    4300084: leftshoulder:base:1
+    4300086: legs:base:1
+    4300088: legs:base:2
+    4300090: legs:base:3
+    4300092: rightshoulder:base:1
+    4300094: rightshoulder:base:2
+    9500000: //RootNode
+    13700000: arms:base:1
+    13700002: arms:base:2
+    13700004: arms:base:3
+    13700006: body:base:1
+    13700008: body:base:2
+    13700010: body:base:3
+    13700012: body:base:4
+    13700014: helmet:base:1
+    13700016: helmet:base:2
+    13700018: helmet:base:3
+    13700020: helmet:base:4
+    13700022: leftshoulder:base:1
+    13700024: legs:base:1
+    13700026: legs:base:2
+    13700028: legs:base:3
+    13700030: rightshoulder:base:1
+    13700032: rightshoulder:base:2
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
